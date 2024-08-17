@@ -1,6 +1,6 @@
 </head>
 <body>
-    <h1>Hi, I'm Krrisha Pate</h1>
+    <h1>Hi, I'm Krrisha Patel</h1>
     <p>A passionate entrepreneur with a knack for technology</p>
     <p>👨‍💻 All of my projects are available on <a href="https://krrishapatel.wixsite.com/portfolio">my portfolio</a></p>
     <p>📫 Reach out to me by <a href="mailto:krrisha@wharton.upenn.edu">email</a></p>
