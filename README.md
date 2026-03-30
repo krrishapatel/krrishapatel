@@ -1,5 +1,5 @@
 <head>
-    <h1>Hi, I'm Krrisha Patel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+    <h1>Hi, I'm Krrisha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 </head>
 <body>
     <p>A passionate entrepreneur with a knack for technology</p>
