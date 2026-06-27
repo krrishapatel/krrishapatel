@@ -1,10 +1,10 @@
-<h1>Hi, I'm Krrisha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1>hi, i'm krrisha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-A passionate entrepreneur with a knack for technology
+a passionate entrepreneur with a knack for technology
 
-👨‍💻 My projects are available on [my portfolio](https://krrishapatel.vercel.app/)
+👨‍💻 my projects are available on [my portfolio](https://krrishapatel.vercel.app/)
 
-📫 You can reach me at [email](mailto:krrishapatel26@gmail.com) ・ [linkedin](https://linkedin.com/in/krrishapatel)
+📫 you can reach me at [email](mailto:krrishapatel26@gmail.com) ・ [linkedin](https://linkedin.com/in/krrishapatel)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
