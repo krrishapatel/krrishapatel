@@ -17,4 +17,5 @@ A passionate entrepreneur with a knack for technology
 🌐 **web + infra** · fastapi · flask · next.js · react · node.js · docker · aws · vercel · postgresql · redis · firebase
 
 🎨 **frontend** · tailwind css · html/css · figma
+
 <br clear="right">
