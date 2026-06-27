@@ -2,7 +2,7 @@
 
 a passionate entrepreneur with a knack for technology
 
-👨‍💻 my projects are available on [my portfolio](https://krrishapatel.vercel.app/)
+👨‍💻 my projects are available on my [portfolio](https://krrishapatel.vercel.app/)
 
 📫 you can reach me at [email](mailto:krrishapatel26@gmail.com) ・ [linkedin](https://linkedin.com/in/krrishapatel)
 
