@@ -8,7 +8,7 @@ a passionate entrepreneur with a knack for technology
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150">
+<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120">
 
 🧠 **languages** · python · typescript · javascript · java · swift · sql
 
