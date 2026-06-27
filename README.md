@@ -7,9 +7,10 @@ A passionate entrepreneur with a knack for technology
 
 ---
 
-```
-🧠 languages     python · typescript · javascript · java · swift · sql
-🤖 ai/ml         langchain · scikit-learn · pytorch · chromadb · ollama · opencv · pandas · numpy · huggingface
-🌐 web + infra   fastapi · flask · next.js · react · node.js · docker · aws · vercel · postgresql · redis
-🎨 frontend      tailwind css · html/css · figma
-```
+🧠 **languages** · python · typescript · javascript · java · swift · sql
+
+🤖 **ai/ml** · langchain · scikit-learn · pytorch · chromadb · ollama · opencv · pandas · numpy · huggingface
+
+🌐 **web + infra** · fastapi · flask · next.js · react · node.js · docker · aws · vercel · postgresql · redis
+
+🎨 **frontend** · tailwind css · html/css · figma
