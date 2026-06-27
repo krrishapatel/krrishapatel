@@ -3,6 +3,7 @@
 A passionate entrepreneur with a knack for technology
 
 👨‍💻 My projects are available on [my portfolio](https://krrishapatel.vercel.app/)
+
 📫 You can reach me at [email](mailto:krrishapatel26@gmail.com) ・ [linkedin](https://linkedin.com/in/krrishapatel)
 
 ---
