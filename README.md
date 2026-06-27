@@ -1,6 +1,6 @@
 <h1>Hi, I'm Krrisha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-A passionate entrepreneur with a knack for technology
+✨ A passionate entrepreneur with a knack for technology ✨
 
 👨‍💻 My projects are available on [my portfolio](https://krrishapatel.vercel.app/)
 
@@ -8,8 +8,10 @@ A passionate entrepreneur with a knack for technology
 
 ---
 
-**languages** · python · typescript · javascript · java · swift
+🧠 **languages** · python · typescript · javascript · java · swift · sql
 
-**ai/ml** · langchain · scikit-learn · chromadb · ollama · opencv · pandas
+🤖 **ai/ml** · langchain · scikit-learn · pytorch · chromadb · ollama · opencv · pandas · numpy · huggingface
 
-**web + infra** · fastapi · flask · next.js · react · docker · vercel · cloudflare workers
+🌐 **web + infra** · fastapi · flask · next.js · react · node.js · docker · aws · vercel · cloudflare workers · postgresql · redis · git
+
+🎨 **frontend** · tailwind css · html/css · figma
