@@ -18,12 +18,4 @@ A passionate entrepreneur with a knack for technology
 
 🎨 **frontend** · tailwind css · html/css · figma
 
-🛠️ **tools** · git · github actions · linux · postman · jupyter · vscode
-
 <br clear="right">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=krrishapatel&style=flat-square&color=blueviolet" alt="profile views">
-</p>
