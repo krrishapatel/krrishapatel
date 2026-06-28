@@ -10,7 +10,7 @@ a passionate entrepreneur with a knack for technology
 
 <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120">
 
-🧠 **languages** · python · typescript · javascript · java · swift · sql
+🧠 **languages** · python · typescript · javascript · java · c++ · swift · sql
 
 🤖 **ai/ml** · langchain · scikit-learn · pytorch · chromadb · ollama · opencv · pandas · numpy · huggingface
 
